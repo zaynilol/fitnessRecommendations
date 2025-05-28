@@ -1,1 +1,1 @@
-Ensure that the gym_recommendations.xlsx file is in the same directory as the main notebook.
+Ensure that the gym_recommendation.xlsx file is in the same directory as the main notebook.
